@@ -4,10 +4,10 @@
 :toc: left
 :reproducible:
 
-Marlowe is a platform for financial products as smart contracts. Marlowe-Cardano is
-an implementation of Marlowe for the Cardano blockchain, built on top of Plutus.
+Marlowe là nền tảng cho các sản phẩm tài chính dưới dạng hợp đồng thông minh cho Cardano, được xây dựng dựa trên Plutus. 
 
-This repository contains:
+
+Repository bao gồm:
 
 * The implementation of the Marlowe domain-specific language.
 * Tools for working with Marlowe, including static analysis.
